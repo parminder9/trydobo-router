@@ -6,19 +6,19 @@
     },
     {
       "source": "/portfolio",
-      "destination": "https://REPLACE_WITH_PORTFOLIO_DEPLOYMENT.vercel.app/portfolio"
+      "destination": "https://portfolio-five-blush-dzo63mcdy9.vercel.app/portfolio"
     },
     {
       "source": "/portfolio/:path*",
-      "destination": "https://REPLACE_WITH_PORTFOLIO_DEPLOYMENT.vercel.app/portfolio/:path*"
+      "destination": "https://portfolio-five-blush-dzo63mcdy9.vercel.app/portfolio/:path*"
     },
     {
       "source": "/tailor",
-      "destination": "https://REPLACE_WITH_TAILOR_DEPLOYMENT.vercel.app/tailor"
+      "destination": "https://job-application-agent-pi.vercel.app/tailor"
     },
     {
       "source": "/tailor/:path*",
-      "destination": "https://REPLACE_WITH_TAILOR_DEPLOYMENT.vercel.app/tailor/:path*"
+      "destination": "https://job-application-agent-pi.vercel.app/tailor/:path*"
     }
   ]
 }

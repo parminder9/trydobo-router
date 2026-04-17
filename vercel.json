@@ -6,11 +6,19 @@
     },
     {
       "source": "/portfolio",
-      "destination": "https://portfolio-five-blush-dzo63mcdy9.vercel.app/portfolio"
+      "destination": "https://portfolio-five-blush-dzo63mcdy9.vercel.app/"
+    },
+    {
+      "source": "/portfolio/",
+      "destination": "https://portfolio-five-blush-dzo63mcdy9.vercel.app/"
+    },
+    {
+      "source": "/portfolio/assets/:path*",
+      "destination": "https://portfolio-five-blush-dzo63mcdy9.vercel.app/assets/:path*"
     },
     {
       "source": "/portfolio/:path*",
-      "destination": "https://portfolio-five-blush-dzo63mcdy9.vercel.app/portfolio/:path*"
+      "destination": "https://portfolio-five-blush-dzo63mcdy9.vercel.app/:path*"
     },
     {
       "source": "/tailor",
